@@ -1,4 +1,4 @@
-<color=#b30000>Zeo</color>Works & <color=#4de7ff>Lumaah</color> Przedstawiają 
+<color=#b30000>Zeo</color>Works & <color=#4de7ff>blackle662</color> Przedstawiają 
 DZIENNIK ZMIAN
 The Guardian zrezygnował z walki…
 Twój przywódca odszedł. Następuje chaos
@@ -15,37 +15,37 @@ Host nie życzy sobie, żebyś się dalej bawił..
 Host wpadł do dziury, której nie mógł zobaczyć.
 Host był zdrajcą.
 Host został złapany.
-Pierwsza wersja LumaUtils została stworzona 15 września 2024.
-LumaUtils miał być kontynuacją FPE.
+Pierwsza wersja 662utils została stworzona 15 września 2024.
+662utils miał być kontynuacją FPE.
 Nie rozmawiamy o animacji biegu Gmana.
 Jason 666 pomógł mi w tym
-orginalnie, lumautils miał być tylko modem zapobiegającym rajdów botów.
-mobilna wersja LumaUtils mogłaby w przyszłości stać się czymś więcej.
-lumautils mogło się nazywać LCM, czyli Lumaah's Custom Multiplayer.
-pierwszą rzeczą, którą dodałem w LumaUtils, był prosty 'Hello World'.
+orginalnie, 662utils miał być tylko modem zapobiegającym rajdów botów.
+mobilna wersja 662utils mogłaby w przyszłości stać się czymś więcej.
+662utils mogło się nazywać LCM, czyli blackle662's Custom Multiplayer.
+pierwszą rzeczą, którą dodałem w 662utils, był prosty 'Hello World'.
 co masz na myśli, mówiąc uchylanie się od płacenia podatków
 "Jestem w twoich ścianach, co-, \nwhy czy słyszę, jak ktoś wali młotkiem w ścianę? POMOCY!!",
 <color=#FF0000>R</color><color=#FF7F00>A</color><color=#FFFF00>I</color><color=#00FF00>N</color><color=#0000FF>B</color><color=#4B0082>O</color><color=#9400D3>W</color>
 Ciekawostka: napisałem aktualizator zasobów od nowa 17 razy, zabijcie mnie proszę.
 "Popupy często się zawieszały i pokazywały biały ekran, \nja & rezz zostaliśmy oślepieni 11 razy przez to podczas testów",
-Kiedyś myślałem o porzuceniu LumaUtils, ale nie żałuję, że do dziś je tworzę.
+Kiedyś myślałem o porzuceniu 662utils, ale nie żałuję, że do dziś je tworzę.
 "Kiedy po raz pierwszy pomyślałem o przerobionym trybie przetrwania, pierwotnym pomysłem było dodanie sekretnej, jedenastej fali.\n z japońskim motywem ucieczki stworzonym przez sztuczną inteligencję.\n I tak, ta muzyka istnieje.",
 Jeśli się nad tym zastanowić, większość modów do st3 istnieje dzięki mnie.
-Jeśli kiedykolwiek przestanę tworzyć LumaUtils, prawdopodobnie udostępnię kod źródłowy publicznie.
+Jeśli kiedykolwiek przestanę tworzyć 662utils, prawdopodobnie udostępnię kod źródłowy publicznie.
 Potajemnie mam wyciekłą wersję Guardian Collection, ale nikomu nie mów, dobrze?
 The Three Moles zostało stworzone 27 sierpnia 2024 roku.
 makstubby, mój ukochany
-oryginalna nazwa folderu ze źródłami LumaUtils to becbenzenmod.
+oryginalna nazwa folderu ze źródłami 662utils to becbenzenmod.
 raz byłem tak zmęczony aktualizatorem zasobów, że zwróciłem się o pomoc do ChatGPT. Na litość boską, było jeszcze gorzej.
 Prawie usunąłem cały dysk E: podczas tworzenia tego.
 Tekst ładowania trybu Deathmatch to dosłownie odniesienie do Cuphead.
 Deathmatch został dodany przypadkowo, byłem znudzony i chciałem sprawdzić, czy nadal działa.
-LumaUtils pierwotnie miał służyć tylko jako mod z czarną listą
+662utils pierwotnie miał służyć tylko jako mod z czarną listą
 Cabinets to cholerny człowiek-ideał, skąd on bierze te pomysły ??
-Dzięki LumaUtils wywołałem blue screena na swoim PC :cry:
+Dzięki 662utils wywołałem blue screena na swoim PC :cry:
 run away peter griffin ai cover nie istnieje.
-Próbowałem odpalić LumaUtils na androidowej wersji ST3, telefon się zawiesił
-W LumaUtils znajduje się wiele innych nawiązań do gier.
+Próbowałem odpalić 662utils na androidowej wersji ST3, telefon się zawiesił
+W 662utils znajduje się wiele innych nawiązań do gier.
 Przez jakiś czas spałem w kartonie.
 TubbyCraft miał być w wersji 0.1b, ale się zepsuł, tak jak ja, haha.
 The Devil Among Us 2.3 pojawi się w 2205.
@@ -54,7 +54,7 @@ The Devil Among Us 2.3 pojawi się w 2205.
 https://files.catbox.moe/1f1xre.mp4
 Nigdy nie wpisuj 'itwasgood', gdy masz wybraną mapę Slendytubbies Classic.
 Nazwa Among Others pochodzi od tego, że jest to mod wśród innych modów.
-Sean wie o LumaUtils.
+Sean wie o 662utils.
 Technicznie rzecz biorąc, pomyślałem o emotkach zanim zrobił to Meloh.
 Jeśli to czytasz, to znaczy, że potrafisz czytać.
 Wygląda na to, że mamy gości, chwyćcie za broń, ludzie.
@@ -196,7 +196,7 @@ Włącza przerobione Mapy (Cabin) <color=red>(BETA)</color>
 Włącz niestandardową muzykę w głównym menu :
 Zamienia muzykę w głównym menu.
 Włącz niestandardową muzykę użytkownika w głównym menu :
-Pozwala użytkownikowi dać niestandardową muzykę w głównym menu. (MainMenuCustom.mp3 w folderze LumaUtils/Audios)
+Pozwala użytkownikowi dać niestandardową muzykę w głównym menu. (MainMenuCustom.mp3 w folderze 662utils/Audios)
 Włącz efekt usterki :
 Włącza shader efektu usterki (Wymaga restartu)
 Włącz niestandardowe tło w głównym menu :
@@ -207,8 +207,8 @@ Popups :
 Włącza wyskakujące Popups'y z ST2 w collect.
 Dźwięk ST1 zbierania kremów :
 Gra dźwięk z ST1 kiedy zbierasz krem.
-Dźwięk LumaUtils zbierania kremów :
-Gra dźwięk LumaUtils przy zbieraniu kremu.
+Dźwięk 662utils zbierania kremów :
+Gra dźwięk 662utils przy zbieraniu kremu.
 Głośność krzyków :
 Pozwala ci ustawić głośność krzyków. (0-100)
 Głośność muzyki pościgu :
@@ -219,8 +219,8 @@ Włącz nowe OSTs :
 Włącza nowe OSTs zrobione przez Samuel Virkola. (Fala 1-9)
 Włącz Custom OSTs :
 Pozwala ci na dodawanie niestandardowych OSTs do survival (Nowe OSTs muszą być włączone)
-Ustawienia LumaUtils
-Wybór języka LumaUtils
+Ustawienia 662utils
+Wybór języka 662utils
 Ustawienia głównego menu
 Ustawienia Collect'u
 Ustawienia Survival'u

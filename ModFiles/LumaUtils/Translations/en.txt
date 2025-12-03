@@ -1,4 +1,4 @@
-<color=#b30000>Zeo</color>Works & <color=#4de7ff>Lumaah</color> PRESENTS
+<color=#b30000>Zeo</color>Works & <color=#4de7ff>blackle662</color> PRESENTS
 CHANGELOGS
 The Guardian has abandoned the fight…
 Your leader has left. Chaos follows.
@@ -15,37 +15,37 @@ The host doesn't want you to have fun anymore.
 The host fell into a hole he couldn't see.
 The host was the impostor.
 The host has been caught.
-LumaUtils first ever build made was from september 15 2024 
-LumaUtils was supposed to be a continuation of FPE
+662utils first ever build made was from september 15 2024 
+662utils was supposed to be a continuation of FPE
 We do not talk about gman running animation.
 Jason 666 helped me with this
-originally, lumautils was supposed to be just a mod to prevent raid bots
-lumautils mobile version could become something in the future.
-lumautils could have been called LCM, aka lumaah's custom multiplayer
-first thing i added in lumautils was a simple Hello World print
+originally, 662utils was supposed to be just a mod to prevent raid bots
+662utils mobile version could become something in the future.
+662utils could have been called LCM, aka lumaah's custom multiplayer
+first thing i added in 662utils was a simple Hello World print
 what do you mean tax evasion
 "I am inside your walls, wha-, \nwhy do i hear someone slamming a hammer at the wall, HELP !!",
 <color=#FF0000>R</color><color=#FF7F00>A</color><color=#FFFF00>I</color><color=#00FF00>N</color><color=#0000FF>B</color><color=#4B0082>O</color><color=#9400D3>W</color>
 Fun Fact: i rewrote asset updater 17 times, kill me please
 "Popups used to break and show a white screen all over the screen, \nme & rezz have been blinded 11 times while testing",
-I once thought of cancelling LumaUtils, i don't regret still making it to this day
+I once thought of cancelling 662utils, i don't regret still making it to this day
 "When i first thought of reworked survival the original idea was adding a secret wave 11\n with a ai japanese run away theme song.\n And yes the music does exists.",
 If you think about it, most st3 mods exists because of me
-If i ever stop making LumaUtils, i'll probably make the source code public
+If i ever stop making 662utils, i'll probably make the source code public
 I secretly have a leaked build of guardian collection but don't tell anyone ok ?
 The Three Moles was created on the 27th of August 2024
 makstubby, my beloved
-original lumautils source folder name was becbenzenmod
+original 662utils source folder name was becbenzenmod
 i once got so tired of asset updater that i asked chatgpt for help. dear god shit was even worse
 i almost got my whole E: drive deleted while making this
 Deathmatch loading text is literally a cuphead reference
 Deathmatch was randomly added, i was bored and wanted to see if it still worked.
-LumaUtils was supposed to just be a blacklist mod
+662utils was supposed to just be a blacklist mod
 Cabinets is a fucking ideaman, where do he gets those ideas ??
-I managed to make my pc bluescreen because of lumautils :cry:
+I managed to make my pc bluescreen because of 662utils :cry:
 run away peter griffin ai cover doesn't exist.
-I tried running lumautils on the st3 android port, crashed my phone
-There's multiple other games references in LumaUtils
+I tried running 662utils on the st3 android port, crashed my phone
+There's multiple other games references in 662utils
 I've been sleeping in a cardboard box
 TubbyCraft was supposed to be in 0.1b but it broke down, just like me haha.
 The Devil Among Us 2.3 Drops in 2205.
@@ -54,7 +54,7 @@ Life gave you lemons? take them out the freezer.
 https://files.catbox.moe/1f1xre.mp4
 Do not ever type 'itwasgood' while having slendytubbies classic selected.
 Among Others name comes from the fact that's it's a mod among other mods.
-Sean knows about LumaUtils.
+Sean knows about 662utils.
 Technically speaking, i've thought of emotes before Meloh did.
 If you read this, it means you know how to read.
 Looks like we have company, get your guns folks.
@@ -196,7 +196,7 @@ Enables Reworked Maps (Cabin) <color=red>(BETA)</color>
 Enable Custom Main Menu Music :
 Replaces the main menu music
 Enable User Custom Main Menu Music :
-Allow user to use custom music. (MainMenuCustom.mp3 in LumaUtils/Audios folder)
+Allow user to use custom music. (MainMenuCustom.mp3 in 662utils/Audios folder)
 Enable Main Menu Glitch Effect :
 Enables a glitch effect shader for main menu (require reload)
 Enable Custom Main Menu Background :
@@ -207,8 +207,8 @@ Enable Popups :
 Enables Popups from Slendytubbies 2 in Collect.
 Enable ST1 Collect Custard Sound :
 Plays ST1 sound when you collect a custard
-Enable LumaUtils Collect Custard Sound :
-Plays LumaUtils sound when you collect a custard
+Enable 662utils Collect Custard Sound :
+Plays 662utils sound when you collect a custard
 Screamer Volume :
 Allows you to adjust the volume of screamers. (0-100)
 Chase Music Volume :
@@ -219,8 +219,8 @@ Enable New OSTs :
 Enables new OSTs that were made by Samuel Virkola. (Wave 1-9)
 Enable Custom OSTs :
 Allows you adding custom OSTs for survival (needs New OSTs enabled)
-LumaUtils Settings
-LumaUtils Language Selection
+662utils Settings
+662utils Language Selection
 Main Menu Settings
 Collect Settings
 Survival Settings

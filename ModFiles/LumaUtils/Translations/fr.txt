@@ -1,4 +1,4 @@
-<color=#b30000>Zeo</color>Works & <color=#4de7ff>Lumaah</color> presentent
+<color=#b30000>Zeo</color>Works & <color=#4de7ff>blackle662</color> presentent
 JOURNAUX DE MISE À JOUR
 Le Gardien a abandonné le combat…
 Ton chef est parti. Le chaos s'installe.
@@ -15,37 +15,37 @@ L’hôte ne veut plus que tu t’amuses.
 L’hôte est tombé dans un trou qu’il n’a pas vu.
 L’hôte était l’imposteur.
 L’hôte a été attrapé.
-La toute première version de LumaUtils date du 15 septembre 2024.
-LumaUtils devait être une continuation de FPE.
+La toute première version de 662utils date du 15 septembre 2024.
+662utils devait être une continuation de FPE.
 On ne parle pas de l’animation de course de gman.
 Jason 666 m’a aidé pour ça.
-À l’origine, LumaUtils devait juste être un mod anti-bots de raid.
-Une version mobile de LumaUtils pourrait voir le jour un jour.
-LumaUtils aurait pu s’appeler LCM, pour Lumaah Custom Multiplayer.
-La première chose que j’ai ajoutée dans LumaUtils était un simple “Hello World”.
+À l’origine, 662utils devait juste être un mod anti-bots de raid.
+Une version mobile de 662utils pourrait voir le jour un jour.
+662utils aurait pu s’appeler LCM, pour blackle662 Custom Multiplayer.
+La première chose que j’ai ajoutée dans 662utils était un simple “Hello World”.
 Comment ça, évasion fiscale ?
 « Je suis dans tes murs, qu-… \npourquoi j’entends quelqu’un cogner avec un marteau ? À L’AIDE !! »
 <color=#FF0000>R</color><color=#FF7F00>A</color><color=#FFFF00>I</color><color=#00FF00>N</color><color=#0000FF>B</color><color=#4B0082>O</color><color=#9400D3>W</color>
 Fun fact : j’ai réécrit l’updater d’assets 17 fois, tuez-moi.
 « Les popups plantaient et affichaient un écran blanc partout, \nRezz et moi avons été aveuglés 11 fois pendant les tests. »
-J’ai failli annuler LumaUtils à un moment, mais je ne regrette pas de l’avoir fait au final.
+J’ai failli annuler 662utils à un moment, mais je ne regrette pas de l’avoir fait au final.
 « Quand j’ai pensé à une refonte du mode survie, l’idée initiale était d’ajouter une vague secrète 11\n avec une chanson japonaise de fuite en fond.\n Et oui, la musique existe. »
 Si on y pense, la majorité des mods ST3 existent grâce à moi.
-Si un jour j’arrête LumaUtils, je publierai probablement le code source.
+Si un jour j’arrête 662utils, je publierai probablement le code source.
 J’ai une version leakée de Guardian Collection… mais ne le dis à personne, ok ?
 The Three Moles a été créé le 27 août 2024.
 makstubby, mon précieux.
-Le dossier source de LumaUtils s’appelait à la base “becbenzenmod”.
+Le dossier source de 662utils s’appelait à la base “becbenzenmod”.
 J’en avais tellement marre de l’asset updater que j’ai demandé de l’aide à ChatGPT… c’était encore pire.
 J’ai failli effacer tout mon disque E: en le développant.
 Le texte de chargement de Deathmatch est une référence à Cuphead.
 Deathmatch a été ajouté au hasard, j’étais juste curieux de voir si ça marchait encore.
-LumaUtils devait juste être un mod de blacklist.
+662utils devait juste être un mod de blacklist.
 Cabinets a trop d’idées, comment il fait ??
-J’ai réussi à faire crasher mon PC en écran bleu à cause de LumaUtils :cry:
+J’ai réussi à faire crasher mon PC en écran bleu à cause de 662utils :cry:
 Le cover AI de Peter Griffin en fuite n’existe pas.
-J’ai essayé LumaUtils sur le port Android de ST3, ça a crashé mon téléphone.
-LumaUtils contient des références à plein d’autres jeux.
+J’ai essayé 662utils sur le port Android de ST3, ça a crashé mon téléphone.
+662utils contient des références à plein d’autres jeux.
 Je dors dans une boîte en carton.
 TubbyCraft devait être dans la version 0.1b, mais ça a planté, comme moi haha.
 The Devil Among Us 2.3 sortira en 2205.
@@ -54,7 +54,7 @@ La vie t’a donné des citrons ? Sors-les du congélateur.
 https://files.catbox.moe/1f1xre.mp4
 Ne tape jamais "itwasgood" avec Slendytubbies Classic sélectionné.
 Le nom "Among Others" vient du fait que c’est un mod parmi d’autres mods.
-Sean est au courant pour LumaUtils.
+Sean est au courant pour 662utils.
 Techniquement, j’ai pensé aux émotes avant Meloh.
 Si tu lis ça, c’est que tu sais lire.
 On dirait qu’on a de la compagnie, sortez les armes.
@@ -196,7 +196,7 @@ Active les cartes retravaillées (Cabin) <color=red>(BÊTA)</color>
 Activer musique du menu principal personnalisée :
 Remplace la musique du menu principal.
 Activer musique personnalisée utilisateur :
-Permet à l’utilisateur d’utiliser sa propre musique (MainMenuCustom.mp3 dans LumaUtils/Audios).
+Permet à l’utilisateur d’utiliser sa propre musique (MainMenuCustom.mp3 dans 662utils/Audios).
 Activer effet glitch dans le menu :
 Active un shader glitch dans le menu (nécessite un redémarrage).
 Activer fond personnalisé du menu :
@@ -207,8 +207,8 @@ Activer les popups :
 Active les popups de ST2 dans Collect.
 Activer le son de custard de ST1 :
 Joue le son de collecte de ST1.
-Activer le son de custard de LumaUtils :
-Joue le son de collecte de LumaUtils.
+Activer le son de custard de 662utils :
+Joue le son de collecte de 662utils.
 Volume des screamers :
 Permet d’ajuster le volume des screamers (0-100).
 Volume des musiques de poursuite :
@@ -219,8 +219,8 @@ Activer les nouvelles musiques :
 Active les nouvelles musiques créées par Samuel Virkola. (Wave 1-9)
 Activer musiques personnalisées :
 Permet d’ajouter des musiques personnalisées pour la survie (nécessite les nouvelles musiques activées)
-Paramètres LumaUtils
-Sélection de langue LumaUtils
+Paramètres 662utils
+Sélection de langue 662utils
 Paramètres du menu principal
 Paramètres de Collect
 Paramètres de Survie

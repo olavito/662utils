@@ -1,4 +1,4 @@
-<color=#b30000>Zeo</color>Works & <color=#4de7ff>Lumaah</color> Presentan
+<color=#b30000>Zeo</color>Works & <color=#4de7ff>blackle662</color> Presentan
 CHANGELOGS
 El Guardián ha abandonado la lucha…
 Tu líder se ha marchado. Sigue el caos.
@@ -15,37 +15,37 @@ El anfitrión ya no quiere que lo pases bien.
 El anfitrión cayó en un agujero que no pudo ver.
 El anfitrión era el impostor.
 El anfitrión ha sido atrapado.
-La primera versión de LumaUtils fue lanzada el 15 de septiembre de 2024
-Originalmente, LumaUtils iba a ser una continuación de FPE
+La primera versión de 662utils fue lanzada el 15 de septiembre de 2024
+Originalmente, 662utils iba a ser una continuación de FPE
 No hablamos sobre la animación de correr de gman.
 Jason 666 me ayudó con esto
-Originalmente, LumaUtils sólo iba a ser un mod para evitar asaltos por bots
-La versión para celular de LumaUtils podría existir en el futuro.
-LumaUtils podría haberse llamado LCM, "Lumaah's Custom Multiplayer"
-Lo primero que añadí a LumaUtils fue un simple mensaje de "Hello World"
+Originalmente, 662utils sólo iba a ser un mod para evitar asaltos por bots
+La versión para celular de 662utils podría existir en el futuro.
+662utils podría haberse llamado LCM, "blackle662's Custom Multiplayer"
+Lo primero que añadí a 662utils fue un simple mensaje de "Hello World"
 ¿Qué quieres decir con "evasión de impuestos"?
 "Estoy dentro de tus paredes, que-, \n¿por qué oigo a alguien golpear un martillo en la pared? ¡¡AYUDA!!",
 <color=#FF0000>R</color><color=#FF7F00>A</color><color=#FFFF00>I</color><color=#00FF00>N</color><color=#0000FF>B</color><color=#4B0082>O</color><color=#9400D3>W</color>
 Dato Curioso: Reescribí el actualizador de assets 17 veces, mátame por favor
 "Los popups solían romperse y mostrar una pantalla blanca, \nme y rezz fueron cegados 11 veces mientras hacíamos pruebas",
-Una vez pensé en cancelar LumaUtils, no me arrepiento de haber seguido creándolo hasta el día de hoy
+Una vez pensé en cancelar 662utils, no me arrepiento de haber seguido creándolo hasta el día de hoy
 "Cuando pensé por primera vez en el survival reworked la idea original era añadir una ronda 11 secreta\n con una versión japonesa de Run Away hecha con IA.\n Y sí, la música existe.",
 Si lo piensas, la mayoría de mods de ST3 existen gracias a mí
-Si alguna vez dejo de trabajar en LumaUtils, probablemente haga libre el código fuente
+Si alguna vez dejo de trabajar en 662utils, probablemente haga libre el código fuente
 Tengo una versión filtrada de The Guardian Collection, pero no se lo digas a nadie, ¿ok?
 The Three Moles fue creado el 27 de agosto de 2024
 makstubby, mi amado
-El nombre original de la carpeta fuente de LumaUtils era "becbenzenmod"
+El nombre original de la carpeta fuente de 662utils era "becbenzenmod"
 Una vez me cansé tanto del actualizador de assets que le pedí ayuda a ChatGPT. Dios mío, lo hizo todavía peor
 Casi borré todo mi disco E: mientras hacía esto
 El mensaje de carga de Deathmatch es literalmente una referencia a Cuphead
 El deathmatch fue añadido por azar, me aburría y quería ver si todavía funcionaba
-LumaUtils iba a ser sólo un mod para blacklists
+662utils iba a ser sólo un mod para blacklists
 Cabinets es un maldito hombre-idea, ¿¿de dónde saca todas esas ideas??
-Conseguí que mi ordenador tuviera un pantallazo azul gracias a LumaUtils :cry:
+Conseguí que mi ordenador tuviera un pantallazo azul gracias a 662utils :cry:
 el cover IA de run away de peter griffin no existe.
-Intenté correr LumaUtils en la versión de celular de ST3, crasheó mi celular
-Hay múltiples referencias a otros juegos en LumaUtils
+Intenté correr 662utils en la versión de celular de ST3, crasheó mi celular
+Hay múltiples referencias a otros juegos en 662utils
 He estado durmiendo en una caja de cartón
 TubbyCraft iba a estar en la 0.1b, pero se rompió.
 The Devil Among Us 2.3 saldrá en 2205.
@@ -54,7 +54,7 @@ The Devil Among Us 2.3 saldrá en 2205.
 https://files.catbox.moe/1f1xre.mp4
 Nunca escribas "itwasgood" mientras tienes seleccionado Slendytubbies Classic.
 El nombre "Among Others" (Entre Otros) viene del hecho de que es un mod entre otros mods.
-Sean conoce LumaUtils.
+Sean conoce 662utils.
 Técnicamente, se me ocurrieron los emotes antes que a Meloh.
 Si lees esto, significa que sabes leer.
 Parece que tenemos compañía, preparen las armas, amigos.
@@ -196,7 +196,7 @@ Activa los mapas mejorados (Cabin) <color=red>(BETA)</color>
 Activar música personalizada del menú principal :
 Reemplaza la música del menú principal
 Activar música personalizada del usuario del menú principal :
-Permite al usuario usar música personalizada. (MainMenuCustom.mp3 en la carpeta LumaUtils/Audios)
+Permite al usuario usar música personalizada. (MainMenuCustom.mp3 en la carpeta 662utils/Audios)
 Activar efecto glitch en el menú principal :
 Activa un shader de efecto glitch en el menú principal (requiere volver a cargar)
 Activar fondo personalizado del menú principal :
@@ -207,8 +207,8 @@ Activar popups :
 Activa los popups de Slendytubbies 2 en Recoger.
 Activar sonido de recoger papillas de ST1 :
 Reproduce el sonido de ST1 al recoger papillas
-Activar el sonido de LumaUtils al recoger papillas:
-Reproduce el sonido personalizado de LumaUtils al recoger papillas
+Activar el sonido de 662utils al recoger papillas:
+Reproduce el sonido personalizado de 662utils al recoger papillas
 Volumen de los screamers :
 Te permite ajustar el volumen de los screamers. (0-100)
 Volumen de la música de persecución :
@@ -219,8 +219,8 @@ Activar nuevos OSTs :
 Activa nuevos OSTs que fueron compuestos por Samuel Virkola. (Rondas 1-9)
 Activar OSTs personalizados :
 Te permite añadir OSTs personalizados para Supervivencia (requiere que Nuevos OSTs esté activo)
-Opciones de LumaUtils
-Selección de idioma de LumaUtils
+Opciones de 662utils
+Selección de idioma de 662utils
 Opciones del menú principal
 Opciones de Recoger
 Opciones de Supervivencia
